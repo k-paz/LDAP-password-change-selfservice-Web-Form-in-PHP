@@ -1,11 +1,9 @@
 # LDAP-password-change-selfservice-Web-Form-in-PHP
 The PHP Web form for a selfservice LDAP password user change
 
-LDAP password change selfservice Web Form in PHP
-Copyright (c) 2015 - 2016 Krzyszof Paz. GNU GPL v3
+@author    Krzysztof Paz
 @category  ldapchpwd.php
 @package   ldapchpwd.php
-@author    Krzysztof Paz
 @copyright 2016 (C) Krzysztof Paz. GNU General Public License, version 3 (GPL-3.0).
 @license   https://opensource.org/licenses/GPL-3.0
 @version   Release: 1.0
